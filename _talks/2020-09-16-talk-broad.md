@@ -2,9 +2,9 @@
 title: "Parallels between computer and human representations of meaning"
 collection: talks
 type: "Talk"
-permalink: /talks/2020-09-16-talk
+permalink: /talks/2020-09-16-talk-broad
 venue: "Broad Institute"
-date: 2014-02-01
+date: 2020-09-16
 location: "Virtual"
 ---
 
