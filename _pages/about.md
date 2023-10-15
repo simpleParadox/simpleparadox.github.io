@@ -91,7 +91,7 @@ Bengali - Working profiency
 
 French - Basic Proficiency
 
-
+------
 
 For more info check out my [LinkedIn](https://www.linkedin.com/in/rohansaha60/)
 
