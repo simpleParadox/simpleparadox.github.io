@@ -13,10 +13,12 @@ redirect_from:
 
 <!-- # Hello 👋, I'm Rohan! -->
 # About me
+------
 I am a PhD student at the University of Alberta working with [Dr. Alona Fyshe](https://webdocs.cs.ualberta.ca/~alona/). I am interested in improving the performance of Large Language Models 🤖 using learning techniques inspired by the human mind 🧠. You can get my [CV](/files/cv.pdf).
 
 
 # Education
+------
 ##### PhD - Computing Science, Edmonton, Canada, 2022-Present
 GPA: 4.0/4.0
 Working on curriculum Learning for language models.
@@ -31,9 +33,10 @@ Supervisor: Alona Fyshe
 GPA: 9.48/10.0
 Bachelor's degree in Computer Science and Engineering. Worked on deep learning for projects for the fulfilling degree requirements.
 
-
+===
 
 # Professional Experience
+------
 ### Natural Resources Canada, Government of Canada, 2023
 NLP Research Intern - Led a successful project to upgrade the language model based recommendation engine for suggesting similar records on [geo.ca](https://geo.ca/)
 
@@ -49,17 +52,20 @@ Software Engineering Intern - Worked with a team of 2 people to upgrade the prim
 
 
 # What tools do I use?
+------
 Generally, I use the following: VSCode, Git, PyTorch, Huggingface Transformers, Gradio.
 I have some experience with cloud computing technologies such as AWS and Google Cloud.
 
 
 # What do I like to do for fun?
+------
 I am believer in health and fitness and do heavy lifting 💪. As a consequence, I am in a constant search for healthy but budget friendly recipies 🍚.
 I love to cook and try out a new recipe every week.
 
 
 
 # Other engagements
+------
 I make awesome banana bread 🥐 in my free time.
 
 I was the vice president (2021-2022), and academic director (2020-2019) for the Computing Science Graduate Student's Association (CSGSA) @ University of Alberta.
@@ -71,11 +77,15 @@ I contributed to the development of Jupyter Notebooks for the Neuromatch Academy
 
 
 # Languages I know
+------
 English - Advanced Proficiency
 Hindi - Working Proficiency
 Bengali - Working profiency
 French - Basic Proficiency
 
+
+
+For more info check out my [LinkedIn](https://www.linkedin.com/in/rohansaha60/)
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
