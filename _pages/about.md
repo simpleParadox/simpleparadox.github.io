@@ -14,7 +14,7 @@ redirect_from:
 <!-- # Hello 👋, I'm Rohan! -->
 # About me
 ------
-I am a PhD student at the University of Alberta working with [Dr. Alona Fyshe](https://webdocs.cs.ualberta.ca/~alona/). I am interested in improving the performance of Large Language Models 🤖 using learning techniques inspired by the human mind 🧠. You can get my [CV](/files/cv.pdf).
+I am a PhD student at the University of Alberta working with [Dr. Alona Fyshe](https://webdocs.cs.ualberta.ca/~alona/). I am interested in improving the performance of Large Language Models 🤖 using learning techniques inspired by the human mind 🧠. You can get my CV [here](/files/cv.pdf).
 
 
 # Education
