@@ -13,7 +13,7 @@ redirect_from:
 
 <!-- # Hello 👋, I'm Rohan! -->
 # About me
-I am a PhD student at the University of Alberta working with [Dr. Alona Fyshe](https://webdocs.cs.ualberta.ca/~alona/). I am interested in improving the performance of Large Language Models using learning techniques inspired by the human mind. You can get my [CV](/files/cv.pdf).
+I am a PhD student at the University of Alberta working with [Dr. Alona Fyshe](https://webdocs.cs.ualberta.ca/~alona/). I am interested in improving the performance of Large Language Models 🤖 using learning techniques inspired by the human mind 🧠. You can get my [CV](/files/cv.pdf).
 
 
 # Education
@@ -54,7 +54,7 @@ I have some experience with cloud computing technologies such as AWS and Google 
 
 
 # What do I like to do for fun?
-I am believer in health and fitness and do heavy lifting. As a consequence, I am in a constant search for healthy but budget friendly recipies.
+I am believer in health and fitness and do heavy lifting 💪. As a consequence, I am in a constant search for healthy but budget friendly recipies 🍚.
 I love to cook and try out a new recipe every week.
 
 
@@ -65,6 +65,7 @@ I make awesome banana bread 🥐 in my free time.
 I was the vice president (2021-2022), and academic director (2020-2019) for the Computing Science Graduate Student's Association (CSGSA) @ University of Alberta.
 
 I am an executive at Google Developers Group Edmonton since 2020.
+
 I contributed to the development of Jupyter Notebooks for the Neuromatch Academy summer school. Check it out [here](https://deeplearning.neuromatch.io/tutorials/W2D2_ConvnetsAndDlThinking/student/W2D2_Tutorial1.html).
 
 
