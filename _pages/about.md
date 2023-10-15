@@ -13,28 +13,40 @@ redirect_from:
 
 <!-- # Hello 👋, I'm Rohan! -->
 # About me
-I am a PhD student at the University of Alberta working with [Dr. Alona Fyshe](https://webdocs.cs.ualberta.ca/~alona/). I am interested in improving the performance of Large Language Models using learning techniques inspired by the human mind.
+I am a PhD student at the University of Alberta working with [Dr. Alona Fyshe](https://webdocs.cs.ualberta.ca/~alona/). I am interested in improving the performance of Large Language Models using learning techniques inspired by the human mind. Visit my full [LinkedIn](https://www.linkedin.com/in/rohansaha60/) or get my [CV](/files/cv.pdf).
 
 
 # Education
+##### PhD - Computing Science, Edmonton, Canada, 2022-Present
+GPA: 4.0/4.0
+Working on curriculum Learning for language models.
+Supervisor: Alona Fyshe
+
+##### MSc - Computing Science, Edmonton, Canada, 2019-2021
+GPA: 3.5/4.0
+Using machine learning and NLP to understand how the infant brain processes language.
+Supervisor: Alona Fyshe
+
+##### B.Tech - Computer Science and Engineering, Bhubaneswar, India, 2015-2019
+GPA: 9.48/10.0
+Bachelor's degree in Computer Science and Engineering. Worked on deep learning for projects for the fulfilling degree requirements.
+
 
 
 # Professional Experience
-## Natural Resources Canada, Government of Canada, 2023
+### Natural Resources Canada, Government of Canada, 2023
 NLP Research Intern - Led a successful project to upgrade the language model based recommendation engine for suggesting similar records on [geo.ca](https://geo.ca/)
 
-
-## Alberta Machine Intelligence Institute, 2023
+### Alberta Machine Intelligence Institute, 2023
 AI Career Accelerator Program Participant (Consulting) - Course content contributor for multiple modules for the ML training course offered by AMII.
 
-
-## Robert Bosch Engineering Business Solutions, 2019
-
+### Robert Bosch Engineering Business Solutions, 2019
 Software Engineering Intern - Teamed with 4 interns to design and develop a mixed reality proof-of-concept application using Microsoft HoloLens to visualize levels of ambient radiation.
 
-
-## Endurance International Group (Newfold Digital), 2018
+### Endurance International Group (Newfold Digital), 2018
 Software Engineering Intern - Worked with a team of 2 people to upgrade the primary payments collection system to run on the latest version of Ruby on Rails.
+
+
 
 # What tools do I use?
 
@@ -42,7 +54,7 @@ Software Engineering Intern - Worked with a team of 2 people to upgrade the prim
 # What do I like to do for fun?
 
 
-
+# Other engagements
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
