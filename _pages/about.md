@@ -33,7 +33,6 @@ Supervisor: Alona Fyshe
 GPA: 9.48/10.0
 Bachelor's degree in Computer Science and Engineering. Worked on deep learning for projects for the fulfilling degree requirements.
 
-===
 
 # Professional Experience
 ------
@@ -79,8 +78,11 @@ I contributed to the development of Jupyter Notebooks for the Neuromatch Academy
 # Languages I know
 ------
 English - Advanced Proficiency
+
 Hindi - Working Proficiency
+
 Bengali - Working profiency
+
 French - Basic Proficiency
 
 
