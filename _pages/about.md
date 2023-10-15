@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello! My name is Rohan!"
+title: "Hello👋! My name is Rohan!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,9 +11,43 @@ redirect_from:
 
 
 
-# Hello 👋, I'm Rohan!
+<!-- # Hello 👋, I'm Rohan! -->
+# About me
 I am a PhD student at the University of Alberta working with [Dr. Alona Fyshe](https://webdocs.cs.ualberta.ca/~alona/). I am interested in improving the performance of Large Language Models using learning techniques inspired by the human mind.
+
+
+# Education
+
+
+# Professional Experience
+## Natural Resources Canada, Government of Canada, 2023
+NLP Research Intern - Led a successful project to upgrade the language model based recommendation engine for suggesting similar records on [geo.ca](https://geo.ca/)
+
+
+## Alberta Machine Intelligence Institute, 2023
+AI Career Accelerator Program Participant (Consulting) - Course content contributor for multiple modules for the ML training course offered by AMII.
+
+
+## Robert Bosch Engineering Business Solutions, 2019
+
+Software Engineering Intern - Teamed with 4 interns to design and develop a mixed reality proof-of-concept application using Microsoft HoloLens to visualize levels of ambient radiation.
+
+
+## Endurance International Group (Newfold Digital), 2018
+Software Engineering Intern - Worked with a team of 2 people to upgrade the primary payments collection system to run on the latest version of Ruby on Rails.
+
+# What tools do I use?
+
+
+# What do I like to do for fun?
+
+
+
+
+
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
+
+
 
 <!-- A data-driven personal website
 ======

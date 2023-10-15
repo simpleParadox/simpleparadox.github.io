@@ -9,8 +9,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Experience"
-    url: /portfolio/
+  # - title: "Experience"
+  #   url: /portfolio/
         
   - title: "Blog Posts"
     url: https://simpleparadoxai.blogspot.com/
