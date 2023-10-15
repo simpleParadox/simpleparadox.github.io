@@ -64,8 +64,8 @@ I have some experience with cloud computing technologies such as AWS and Google 
 
 # What do I like to do for fun?
 ------
-I am believer in health and fitness and do heavy lifting 💪. As a consequence, I am in a constant search for healthy but budget friendly recipies 🍚.
-I love to cook and try out a new recipe every week.
+I am a strong believer in health and fitness and do heavy lifting 💪. As a consequence, I am in a constant search for healthy but budget friendly recipies 🍚.
+I love to cook and try out new recipes every week.
 
 
 
