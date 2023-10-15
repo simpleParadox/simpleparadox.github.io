@@ -19,21 +19,21 @@ I am a PhD student at the University of Alberta working with [Dr. Alona Fyshe](h
 
 # Education
 ------
-##### PhD - Computing Science, Edmonton, Canada, 2022-Present
+### PhD - Computing Science, Edmonton, Canada, 2022-Present
 GPA: 4.0/4.0
 
 Working on curriculum Learning for language models.
 
 Supervisor: Alona Fyshe
 
-##### MSc - Computing Science, Edmonton, Canada, 2019-2021
+### MSc - Computing Science, Edmonton, Canada, 2019-2021
 GPA: 3.5/4.0
 
 Using machine learning and NLP to understand how the infant brain processes language.
 
 Supervisor: Alona Fyshe
 
-##### B.Tech - Computer Science and Engineering, Bhubaneswar, India, 2015-2019
+### B.Tech - Computer Science and Engineering, Bhubaneswar, India, 2015-2019
 GPA: 9.48/10.0
 
 Bachelor's degree in Computer Science and Engineering. Worked on deep learning for projects for the fulfilling degree requirements.
