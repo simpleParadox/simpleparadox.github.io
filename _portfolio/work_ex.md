@@ -1,10 +1,10 @@
 ---
 title: "Work Experience"
-excerpt: "Contains the list of all my professional work experience."
-collection: portfolio
+# excerpt: "Contains the list of all my professional work experience."
+# collection: portfolio
 ---
 
-# Work experience
+<!-- # Work experience -->
 
 ## Natural Resources Canada, Government of Canada, 2023
 
