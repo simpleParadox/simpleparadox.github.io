@@ -75,7 +75,7 @@ I make awesome banana bread 🥐 in my free time.
 1. Vice President - Computing Science Graduate Student's Association (2021-2022)
 2. Academic Director - Computing Science Graduate Student's Association (2019-2020)
 3. Executive - Google Developers Group Edmonton (2019-Present)
-4. Content Contributor: Neuromatch Academy Deep Learning summer school.
+4. Content Contributor - Neuromatch Academy Deep Learning summer school.
 Check it out [here](https://deeplearning.neuromatch.io/tutorials/W2D2_ConvnetsAndDlThinking/student/W2D2_Tutorial1.html).
 
 
