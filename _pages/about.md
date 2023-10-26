@@ -36,7 +36,7 @@ Supervisor: Alona Fyshe
 ### B.Tech - Computer Science and Engineering, Bhubaneswar, India, 2015-2019
 GPA: 9.48/10.0
 
-Bachelor's degree in Computer Science and Engineering. Worked on deep learning for projects for the fulfilling degree requirements.
+Bachelor's degree in Computer Science and Engineering. Worked on deep learning for projects for fulfilling degree requirements.
 
 
 # Professional Experience
